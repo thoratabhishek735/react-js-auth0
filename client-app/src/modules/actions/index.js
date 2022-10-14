@@ -1,0 +1,2 @@
+export { setAuthData } from "./authActions";
+
